@@ -49,3 +49,4 @@ signupBtn.onclick = async () => {
     `;
   }
 };
+
